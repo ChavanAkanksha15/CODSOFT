@@ -41,3 +41,31 @@ balance.
 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure
 of their transactions.
+
+
+**Task-4**
+
+**QUIZ APPLICATION WITH TIMER**
+
+1 Quiz Questions and Options: Store quiz questions along with multiple-choice options and correct
+answers.
+2 Timer: Implement a timer for each question to limit the time to answer.
+3 Question Display: Present one question at a time with multiple-choice options.
+4 Answer Submission: Allow users to select an option and submit their answer within the given
+time.
+5 Score Calculation: Keep track of the user's score based on correct answers.
+
+6 Result Screen: Display the final score and a summary of correct/incorrect answers.
+
+**Task-5**
+
+**STUDENT COURSE REGISTRATION SYSTEM**
+
+Course Database: Store course information, including course code, title,
+description, capacity, and schedule.
+Student Database: Store student information, including student ID, name, and
+registered courses.
+Course Listing: Display available courses with details and available slots.
+Student Registration: Allow students to register for courses from the available
+options.
+Course Removal: Enable students to drop courses they have registered for.
